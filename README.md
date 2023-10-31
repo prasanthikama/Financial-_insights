@@ -1,2 +1,2 @@
-# Financial-_insights
-Goal of this  Financials Report to share  insights of Profit and loss Analysis ,Net Sales
+# Sales-_insights
+Goal of this  Sales Report to share  insights of Profit and loss Analysis ,Net Sales
